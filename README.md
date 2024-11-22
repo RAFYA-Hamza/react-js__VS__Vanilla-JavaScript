@@ -15,8 +15,6 @@ This project is a simple website designed to explain the key differences between
 - React is widely adopted because of its flexibility, component-based architecture, and active community.
 
 
----
-
 This website provides an introductory comparison, highlighting the advantages of using React for modern web development.
 
 ## Using **ReactJS**:
@@ -36,7 +34,6 @@ This website provides an introductory comparison, highlighting the advantages of
   - CSS for styling (dark theme).
   - JavaScript (Vanilla) for basic interactivity.
 
----
 
 ## Why Choose React Over Vanilla JavaScript?
 - **Efficiency**: React’s Virtual DOM ensures better performance and faster updates.
@@ -44,7 +41,6 @@ This website provides an introductory comparison, highlighting the advantages of
 - **Reusability**: Write components once, reuse them everywhere.
 - **Community Support**: Access to countless libraries, tools, and resources.
 
----
 
 ## **How to Run the Project**
 
