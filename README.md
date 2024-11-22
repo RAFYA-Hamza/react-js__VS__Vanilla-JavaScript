@@ -22,21 +22,16 @@ This website provides an introductory comparison, highlighting the advantages of
 
 ## Using **ReactJS**:
 
-<div style="display: flex; justify-content: space-evenly;">
+
   <img src="assets/Reacts-js.png" alt="Page 1" width="250">
-  <img src="assets/Reacts-js1.png" alt="Page 2" width="250">
-  <img src="assets/Reacts-js2.png" alt="Page 3" width="250">
-</div>
+
 
 
 
 ## Using **Vanilla JavaScript**:
 
-<div style="display: flex; justify-content: space-evenly;">
   <img src="assets/Vanilla-js.png" alt="Page 1" width="250">
-  <img src="assets/Vanilla-js1.png" alt="Page 2" width="250">
-  <img src="assets/Vanilla-js2.png" alt="Page 3" width="250">
-</div>
+
 
 ### **Technologies Used**
 
