@@ -1,5 +1,4 @@
 #  ReactJS vs "Vanilla JavaScript"
-# Vanilla JavaScript vs React: Understanding the Basics
 
 ## **Overview**
 
