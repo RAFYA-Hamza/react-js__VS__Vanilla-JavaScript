@@ -23,16 +23,13 @@ This website provides an introductory comparison, highlighting the advantages of
 ## Using **ReactJS**:
 
 
-  <img src="assets/Reacts-js.png" alt="Page 1" width="250">
-
-
+<img src="assets/Reacts-js.png" alt="Page 1" width="250">
 
 
 ## Using **Vanilla JavaScript**:
 
-  <img src="assets/Vanilla-js.png" alt="Page 1" width="250">
-
-
+<img src="assets/Vanilla-js.png" alt="Page 1" width="250">
+  
 ### **Technologies Used**
 
 - **Frontend**:
@@ -42,7 +39,11 @@ This website provides an introductory comparison, highlighting the advantages of
 
 ---
 
-
+## Why Choose React Over Vanilla JavaScript?
+- **Efficiency**: React’s Virtual DOM ensures better performance and faster updates.
+- **Scalability**: Ideal for larger, more complex projects.
+- **Reusability**: Write components once, reuse them everywhere.
+- **Community Support**: Access to countless libraries, tools, and resources.
 
 ---
 
@@ -50,4 +51,4 @@ This website provides an introductory comparison, highlighting the advantages of
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/vanilla-vs-react-website.git
+   git clone https://github.com/RAFYA-Hamza/vanilla-vs-react-website.git
