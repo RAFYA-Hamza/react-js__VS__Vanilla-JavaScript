@@ -44,6 +44,34 @@ This website provides an introductory comparison, highlighting the advantages of
 
 ## **How to Run the Project**
 
+   ### Steps
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/RAFYA-Hamza/vanilla-vs-react-website.git
+    ```bash
+    git clone https://github.com/RAFYA-Hamza/react-js__VS__Vanilla-JavaScript.git
+    ```
+2. Open the project in your code editor:
+    ```bash
+    cd react-js__VS__Vanilla-JavaScript
+    ```
+
+3. Open `index.html` in your preferred web browser to view the website.
+
+## Contributing
+
+We welcome contributions! To contribute, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/YourFeature`).
+3. Commit your changes (`git commit -m 'Add new feature'`).
+4. Push to your branch (`git push origin feature/YourFeature`).
+5. Open a Pull Request.
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+## Contact
+
+react-js__VS__Vanilla-JavaScript - [LinkedIn](https://www.linkedin.com/in/hamza-rafya-01a0011b8/) - hamza.rafya.dev@gmail.com
+
+Project Link: [GitHub Repository](https://github.com/RAFYA-Hamza/react-js__VS__Vanilla-JavaScript.git)
