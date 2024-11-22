@@ -15,6 +15,9 @@ This project is a simple website designed to explain the key differences between
 - It simplifies the creation of dynamic, interactive, and complex web applications.
 - React is widely adopted because of its flexibility, component-based architecture, and active community.
 
+
+---
+
 This website provides an introductory comparison, highlighting the advantages of using React for modern web development.
 
 ---
