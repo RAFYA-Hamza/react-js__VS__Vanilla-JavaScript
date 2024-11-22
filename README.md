@@ -1,1 +1,1 @@
-# react-js__VS__Vanilla-JavaScript
+#  ReactJS vs "Vanilla JavaScript"
