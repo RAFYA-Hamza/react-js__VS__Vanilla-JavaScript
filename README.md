@@ -20,21 +20,27 @@ This project is a simple website designed to explain the key differences between
 
 This website provides an introductory comparison, highlighting the advantages of using React for modern web development.
 
----
+## Using **ReactJS**:
 
-## **Features**
+<div class="image-column">
+  <img src="assets/image1.jpg" alt="Image 1">
+  <img src="assets/image2.jpg" alt="Image 2">
+  <img src="assets/image3.jpg" alt="Image 3">
+</div>
 
-# Using **ReactJS**:
 
-# Using Vanilla **JavaScript**:
----
+## Using **Vanilla JavaScript**:
 
-## **Technologies Used**
+### **Technologies Used**
 
 - **Frontend**:
   - HTML for structure.
   - CSS for styling (dark theme).
   - JavaScript (Vanilla) for basic interactivity.
+
+---
+
+
 
 ---
 
